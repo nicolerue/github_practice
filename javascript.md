@@ -3,5 +3,3 @@
 - Add!
 - Commit! 
 - Push! 
-
-## so cool 
