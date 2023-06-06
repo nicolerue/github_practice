@@ -2,3 +2,6 @@
 - Make changes!
 - Add!
 - Commit! 
+- Push! 
+
+## so cool 
